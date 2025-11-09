@@ -74,7 +74,7 @@
     "open": "^8.4.2",
     "qrcode-terminal": "^0.12.0",
     "release-it": "^15.10.3",
-    "sharp": "^0.32.6",
+    "sharp": "*",
     "ts-jest": "^29.4.0",
     "ts-node": "^10.8.1",
     "typedoc": "^0.27.9",
@@ -84,7 +84,7 @@
     "jimp": "^1.6.0",
     "link-preview-js": "^3.0.0",
     "qrcode-terminal": "^0.12.0",
-    "sharp": "^0.32.6"
+    "sharp": "*"
   },
   "peerDependenciesMeta": {
     "jimp": {
